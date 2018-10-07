@@ -1,0 +1,10 @@
+#tgrupos {
+     overflow:scroll;
+     height:450px;
+     width:680px;
+}
+
+#tgrupos table {
+    width:240px;
+
+}
